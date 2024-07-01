@@ -36,5 +36,7 @@ Em que ano você nasceu?
 Com 24 anos: VOTO OBRIGATÓRIO.
 ```
 
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
